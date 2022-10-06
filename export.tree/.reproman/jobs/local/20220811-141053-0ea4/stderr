@@ -1,0 +1,12 @@
+WARNING (08/12/22 09:22:12): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4714433.hostlist.JFVMs0VD to get hosts
+starting job on c167-101
+starting job on c167-111
+starting job on c167-113
+starting job on c167-123
+starting job on c167-193
+starting job on c168-013
+Warning: Permanently added 'c167-101' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c168-013' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c167-123' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c167-111' (ED25519) to the list of known hosts.
